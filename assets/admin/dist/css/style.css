@@ -1,0 +1,10 @@
+ tr.strike-line{
+    text-decoration: line-through;
+    text-decoration-line: line-through;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: #bc3434;
+}
+.hidden-all{
+  display: none;
+}

@@ -1,0 +1,3 @@
+06/01/2021 zero is not allowed FILE : /var/www/html/myci/application/modules/admin/controllers/Error_log.php
+ CLASS : Error_log
+ FUNCTION: custom_calculate
